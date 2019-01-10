@@ -105,10 +105,12 @@ margin-right: 80px;
     position: absolute;
     bottom: 50px;
     left: 50%;
-    
-    
-    
-    
+        
+}
+
+.header__arrow:hover {
+    color: #784ee6;
+    transition: 0.2s ease-out; 
 }
 
 /* ...................................
