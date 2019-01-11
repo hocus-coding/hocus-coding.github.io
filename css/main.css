@@ -108,6 +108,15 @@ margin-right: 80px;
         
 }
 
+.header__arrow a {
+   text-decoration: none; 
+   color: #FFF;
+}
+
+.header__arrow a:hover {
+    color: #784ee6;
+    transition: 0.3s ease-out;
+}
 
 /* ...................................
 
